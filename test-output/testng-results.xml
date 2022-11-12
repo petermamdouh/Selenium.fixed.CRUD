@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-12T22:49:05 EET" name="Default suite" finished-at="2022-11-12T22:49:08 EET" duration-ms="2756">
+    <groups>
+    </groups>
+    <test started-at="2022-11-12T22:49:05 EET" name="Default test" finished-at="2022-11-12T22:49:08 EET" duration-ms="2756">
+      <class name="com.selenium.fixed.crud.mainTest">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:com.selenium.fixed.crud.mainTest@28f3b248]" started-at="2022-11-12T22:48:44 EET" name="globalSetup" finished-at="2022-11-12T22:49:05 EET" duration-ms="21623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method signature="add_Recipe()[pri:1, instance:com.selenium.fixed.crud.mainTest@28f3b248]" started-at="2022-11-12T22:49:05 EET" name="add_Recipe" finished-at="2022-11-12T22:49:06 EET" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_Recipe -->
+        <test-method signature="read_Recipe()[pri:2, instance:com.selenium.fixed.crud.mainTest@28f3b248]" started-at="2022-11-12T22:49:06 EET" name="read_Recipe" finished-at="2022-11-12T22:49:07 EET" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read_Recipe -->
+        <test-method signature="edit_Recipe()[pri:3, instance:com.selenium.fixed.crud.mainTest@28f3b248]" started-at="2022-11-12T22:49:07 EET" name="edit_Recipe" finished-at="2022-11-12T22:49:08 EET" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_Recipe -->
+        <test-method signature="delete_Recipe()[pri:4, instance:com.selenium.fixed.crud.mainTest@28f3b248]" started-at="2022-11-12T22:49:08 EET" name="delete_Recipe" finished-at="2022-11-12T22:49:08 EET" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Recipe -->
+        <test-method is-config="true" signature="globalTearDown()[pri:0, instance:com.selenium.fixed.crud.mainTest@28f3b248]" started-at="2022-11-12T22:49:08 EET" name="globalTearDown" finished-at="2022-11-12T22:49:09 EET" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalTearDown -->
+      </class> <!-- com.selenium.fixed.crud.mainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
